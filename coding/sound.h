@@ -3,7 +3,7 @@
 
 #include <math.h>
 
-namespace sound{
+namespace sound_external{
   #define TWOPI 6.283185307
   short Sinewave(double time, double freq, double amp){
     short result;
